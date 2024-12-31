@@ -1,0 +1,21 @@
+{
+  "name": "sqlifyjson",
+  "version": "1.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "sql",
+    "insert",
+    "database",
+    "converter"
+  ],
+  "author": "shivam kumar",
+  "license": "ISC",
+  "dependencies": {
+    "sqlifyjson": "^1.1.0"
+  }
+}
