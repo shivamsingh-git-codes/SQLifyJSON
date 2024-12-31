@@ -70,6 +70,6 @@ npm test
 2. **Clarified Testing Instructions**: The section on testing now mentions that the user should create a `test.js` file before running tests. This makes it clearer to the reader.
 3. **Code Block Formatting**: Minor formatting adjustments to ensure code examples are inside proper code blocks.
 
-### **Publishing & Testing:**
+
 
 
