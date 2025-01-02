@@ -3,7 +3,7 @@
  * @param {Object|Array} json - JSON object or array to convert.
  * @param {string} tableName - Name of the SQL table.
  * @returns {string} - SQL INSERT statement(s).
- */
+ */ 
 function sqlifyjson(json, tableName) { 
     if (!tableName) throw new Error("Table name is required.");
     if (!Array.isArray(json)) {
