@@ -6,7 +6,7 @@
  */ 
 function sqlifyjson(json, tableName) { 
     if (!tableName) throw new Error("Table name is required.");
-    if (!Array.isArray(json)) {
+    if (!Array.isArray(json)) { 
         json = [json];
     }
     if (json.length === 0) {
